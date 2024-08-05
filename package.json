@@ -1,0 +1,30 @@
+{
+  "name": "intronode",
+  "version": "1.0.0",
+  "description": "Aula introdução Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felip3Lima/introNode.git"
+  },
+  "keywords": [
+    "introdução",
+    "nodejs",
+    "express"
+  ],
+  "author": "Felipe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Felip3Lima/introNode/issues"
+  },
+  "homepage": "https://github.com/Felip3Lima/introNode#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0",
+    "nodemon": "^3.1.4"
+  }
+}
